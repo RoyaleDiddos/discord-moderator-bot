@@ -1,5 +1,5 @@
 module.exports = {
     code: "discord.gg/wicks",
-    token: "",
+   token: process.env.TOKEN,
     PORT:3000
 };
